@@ -1,4 +1,4 @@
 Website Link
 
 
-https://kingstar-foundation.netlify.app/
+https://kingstar-foundation.netlify.app
